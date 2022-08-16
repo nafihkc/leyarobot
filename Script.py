@@ -1,10 +1,12 @@
 class script(object):
     START_TXT = """Hello {},
-ɪᴀᴍ Lᴀyᴀ, ᴀ sɪᴍᴘʟᴇ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ + ᴍᴏᴠɪᴇ sᴇᴀʀᴄʜ + ᴍᴀɴᴜᴀʟ ꜰɪʟᴛᴇʀ ʙᴏᴛ. ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs. ʏᴏᴜ ᴄᴀɴ sᴇᴀʀᴄʜ ᴍᴏᴠɪᴇs ᴠɪᴀ ɪɴʟɪɴᴇ. ɪ ᴄᴀɴ ᴀʟsᴏ ᴀᴅᴅ ꜰɪʟᴛᴇʀs ɪɴ Tᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs. ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴇɴᴊᴏʏ 😁"""
+𝑴𝒚 𝒏𝒂𝒎𝒆 𝒊𝒔 𝑳𝒆𝒚𝒂.. 𝒂 𝒔𝒊𝒎𝒑𝒍𝒆 𝒎𝒐𝒗𝒊𝒆 𝒃𝒐𝒕
+
+𝑨𝒅𝒅 𝒎𝒆 𝒊𝒏 𝒚𝒐𝒖𝒓 𝒈𝒓𝒐𝒖𝒑 𝒂𝒔 𝒂𝒅𝒎𝒊𝒏 𝒂𝒏𝒅 𝒊 𝒘𝒊𝒍𝒍 𝒑𝒓𝒐𝒗𝒊𝒅𝒆 𝒎𝒐𝒗𝒊𝒆𝒔 𝒕𝒉𝒆𝒓𝒆 😉"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/love_is_a_lie_bro>CAPTAIN</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Captain_of_Tele_Gram>CAPTAIN</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -12,7 +14,7 @@ class script(object):
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Leya is a open source project. 
-- Source - https://github.com/nafihkc/leyarobot
+- Source - closed
 
 <b>DEVS:</b>
 - <a href=https://t.me/leya_updates>Team Leya updates</a>"""
